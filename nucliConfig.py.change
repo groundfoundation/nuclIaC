@@ -1,0 +1,15 @@
+def deployments():
+  allDeployments = {
+    'ch' : {
+      'databagLoc' : '',
+      'terraformPath' : '',
+      "localProjectDirectory":"",
+      'productLabel' : '',
+      'module' : '',
+      "globalRepo":"",
+      "mainRepo":"",
+      "components": [""]
+      }
+    }
+  return allDeployments
+
